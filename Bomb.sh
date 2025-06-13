@@ -10,4 +10,4 @@ fetch_url() {
     done
 }
 
-fetch_url "https://api.ipify.org"
+fetch_url "https://web-je-3-yedijas-projects.vercel.app/"
